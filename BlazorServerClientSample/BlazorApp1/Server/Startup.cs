@@ -2,14 +2,18 @@ using BlazorApp1.Server.Data;
 using BlazorApp1.Server.Models;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Components.WebAssembly.Authentication;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.ResponseCompression;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using System;
 using System.Linq;
+using System.Net.Http;
 
 namespace BlazorApp1.Server
 {
@@ -18,9 +22,11 @@ namespace BlazorApp1.Server
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+         
         }
 
         public IConfiguration Configuration { get; }
+      
 
         // This method gets called by the runtime. Use this method to add services to the container.
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
@@ -43,6 +49,9 @@ namespace BlazorApp1.Server
 
             services.AddControllersWithViews();
             services.AddRazorPages();
+
+            //services.AddApiAuthorization();
+          
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -66,8 +75,8 @@ namespace BlazorApp1.Server
             app.UseStaticFiles();
 
             app.UseRouting();
-
             app.UseIdentityServer();
+
             app.UseAuthentication();
             app.UseAuthorization();
           
@@ -78,7 +87,11 @@ namespace BlazorApp1.Server
                 endpoints.MapControllers();
                 endpoints.MapFallbackToFile("index.html");
             });
+
            
+         
+
+
         }
     }
 }
