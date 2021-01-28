@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VwyvePoGMgt0hknQg6JR0+gZapDicnxaa/IyBSN/LGS7hdu3/7dTyHg5WI7ua5AgcGw5bXrwUQLHrdoKEMb2yg==",
+  "dgSpecHash": "naZNSTEoz2cRkmHtTdFHZGqRfYx2l6msO7C6+7u4956UyfHsN2nN7TNDXEVW9AQwAuq9Wb7mrZSaysikO4VG8g==",
   "success": true,
-  "projectFilePath": "I:\\KryptoRepos\\BlazorBlog\\BlazorBlog\\BlazorApp1\\Server\\BlazorApp1.Server.csproj",
+  "projectFilePath": "I:\\KryptoRepos\\BlazorServerClientSample\\BlazorServerClientSample\\BlazorApp1\\Server\\BlazorApp1.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\willi\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\willi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\KryptoRepos\\BlazorBlog\\BlazorBlog\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj": {}
+    "I:\\KryptoRepos\\BlazorServerClientSample\\BlazorServerClientSample\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj": {}
   },
   "projects": {
-    "I:\\KryptoRepos\\BlazorBlog\\BlazorBlog\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj": {
+    "I:\\KryptoRepos\\BlazorServerClientSample\\BlazorServerClientSample\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\KryptoRepos\\BlazorBlog\\BlazorBlog\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj",
+        "projectUniqueName": "I:\\KryptoRepos\\BlazorServerClientSample\\BlazorServerClientSample\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj",
         "projectName": "BlazorApp1.Shared",
-        "projectPath": "I:\\KryptoRepos\\BlazorBlog\\BlazorBlog\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj",
+        "projectPath": "I:\\KryptoRepos\\BlazorServerClientSample\\BlazorServerClientSample\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj",
         "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-        "outputPath": "I:\\KryptoRepos\\BlazorBlog\\BlazorBlog\\BlazorApp1\\Shared\\obj\\",
+        "outputPath": "I:\\KryptoRepos\\BlazorServerClientSample\\BlazorServerClientSample\\BlazorApp1\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

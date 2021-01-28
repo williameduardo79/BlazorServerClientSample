@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3MUyA30AkZqWdjSU5/scQI9emPL3jyeg0+1UaSKIA8BkDOV9ZVpL2+zXivFWMPB5vDKCLyOXUFrBKbaHM2KL7g==",
+  "dgSpecHash": "C2lhmRiCxyQxN4uCe+ks7lyFXllmcY1MU2jEj3lkoQMUKKl0YEp/2R4CkuTy28fI47SA/STRFuo/wzJNaH5bRQ==",
   "success": true,
-  "projectFilePath": "I:\\KryptoRepos\\BlazorBlog\\BlazorBlog\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj",
+  "projectFilePath": "I:\\KryptoRepos\\BlazorServerClientSample\\BlazorServerClientSample\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -6786,11 +6786,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\KryptoRepos\\BlazorBlog\\BlazorBlog\\BlazorApp1\\Server\\BlazorApp1.Server.csproj",
+      "projectUniqueName": "I:\\KryptoRepos\\BlazorServerClientSample\\BlazorServerClientSample\\BlazorApp1\\Server\\BlazorApp1.Server.csproj",
       "projectName": "BlazorApp1.Server",
-      "projectPath": "I:\\KryptoRepos\\BlazorBlog\\BlazorBlog\\BlazorApp1\\Server\\BlazorApp1.Server.csproj",
+      "projectPath": "I:\\KryptoRepos\\BlazorServerClientSample\\BlazorServerClientSample\\BlazorApp1\\Server\\BlazorApp1.Server.csproj",
       "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-      "outputPath": "I:\\KryptoRepos\\BlazorBlog\\BlazorBlog\\BlazorApp1\\Server\\obj\\",
+      "outputPath": "I:\\KryptoRepos\\BlazorServerClientSample\\BlazorServerClientSample\\BlazorApp1\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6812,11 +6812,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "I:\\KryptoRepos\\BlazorBlog\\BlazorBlog\\BlazorApp1\\Client\\BlazorApp1.Client.csproj": {
-              "projectPath": "I:\\KryptoRepos\\BlazorBlog\\BlazorBlog\\BlazorApp1\\Client\\BlazorApp1.Client.csproj"
+            "I:\\KryptoRepos\\BlazorServerClientSample\\BlazorServerClientSample\\BlazorApp1\\Client\\BlazorApp1.Client.csproj": {
+              "projectPath": "I:\\KryptoRepos\\BlazorServerClientSample\\BlazorServerClientSample\\BlazorApp1\\Client\\BlazorApp1.Client.csproj"
             },
-            "I:\\KryptoRepos\\BlazorBlog\\BlazorBlog\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj": {
-              "projectPath": "I:\\KryptoRepos\\BlazorBlog\\BlazorBlog\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj"
+            "I:\\KryptoRepos\\BlazorServerClientSample\\BlazorServerClientSample\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj": {
+              "projectPath": "I:\\KryptoRepos\\BlazorServerClientSample\\BlazorServerClientSample\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj"
             }
           }
         }
