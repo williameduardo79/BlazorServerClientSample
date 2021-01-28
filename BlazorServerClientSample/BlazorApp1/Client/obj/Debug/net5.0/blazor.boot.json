@@ -203,7 +203,6 @@
     },
     "lazyAssembly": null,
     "pdb": {
-      "BlazorApp1.Shared.pdb": "sha256-uInF0hdSAXaRmtEEsf7RTwxxX69G18Y1l0Q7ezISDao=",
       "BlazorApp1.Client.pdb": "sha256-erI+3QBQaI3qbhUBfWwGjNxS88\/XktMQPdqICeWtPgc="
     },
     "runtime": {

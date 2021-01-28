@@ -12,7 +12,36 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
+#nullable restore
+#line 1 "I:\KryptoRepos\BlazorServerClientSample\BlazorServerClientSample\BlazorApp1\Server\Areas\Identity\Pages\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 2 "I:\KryptoRepos\BlazorServerClientSample\BlazorServerClientSample\BlazorApp1\Server\Areas\Identity\Pages\_ViewImports.cshtml"
+using BlazorApp1.Server.Areas.Identity;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 3 "I:\KryptoRepos\BlazorServerClientSample\BlazorServerClientSample\BlazorApp1\Server\Areas\Identity\Pages\_ViewImports.cshtml"
+using BlazorApp1.Server.Areas.Identity.Pages;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 5 "I:\KryptoRepos\BlazorServerClientSample\BlazorServerClientSample\BlazorApp1\Server\Areas\Identity\Pages\_ViewImports.cshtml"
+using BlazorApp1.Server.Models;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"acfba29d0bb675ecb22581fc46452ab8c0178ccb", @"/Areas/Identity/Pages/_ViewStart.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f59cca690297cd49ba12f171331524cf35f8e9a5", @"/Areas/Identity/Pages/_ViewImports.cshtml")]
     public class Areas_Identity_Pages__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

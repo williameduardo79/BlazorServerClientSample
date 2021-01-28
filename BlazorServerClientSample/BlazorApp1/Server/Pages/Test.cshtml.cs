@@ -9,7 +9,8 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace BlazorApp1.Server.Pages
 {
-   [Authorize]
+    //[Authorize]
+    [AllowAnonymous]
     public class TestModel : PageModel
     {
         public string RequestId { get; set; }
